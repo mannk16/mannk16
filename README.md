@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-taught frontend developer, I have a strong passion for creating visually appealing and user-friendly websites. I have a good understanding of HTML, CSS, and JavaScript, and am always looking to expand my skills and knowledge in the field. In my projects, I strive to follow best practices and keep up to date with the latest web development technologies. I am a fast learner and always willing to take on new challenges. In addition to my technical skills, I have a keen eye for design and user experience. I understand the importance of creating websites that not only look good, but are also easy to navigateand use.
+As a self-taught frontend developer, I have a strong passion for creating visually appealing and user-friendly websites. I have a good understanding of HTML, CSS, and JavaScript, and am always looking to expand my skills and knowledge in the field. In my projects, I strive to follow best practices and keep up to date with the latest web development technologies. I am a fast learner and always willing to take on new challenges. In addition to my technical skills, I have a keen eye for design and user experience. I understand the importance of creating websites that not only look good, but are also easy to navigate and use.
 
 
 ## 🌐 Socials:
